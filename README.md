@@ -2,11 +2,10 @@
 
 **Biomedical Physics with Applications to Disease (BPAD)**
 
-<a href="http://GrayRain.org"><img align="right" width="400" src="https://raw.githubusercontent.com/SOCR/GrayRain/master/html/GrayRain_VH_Snap.png"></a>
-
 Table of contents
 =================
 
+<a href="https://bpad.predictive.space"><img align="right" width="400" src="https://github.com/SOCR/BPAD/raw/main/images/BPAD_anime4.gif"></a>
 <!--ts-->
    * [Table of contents](#table-of-contents)
    * [Overview](#overview)
@@ -23,7 +22,7 @@ Biomedical Physics with Applications to Disease (BPAD) covers content, concepts,
 Code
 ====
 
-The Rmd/R code is available and compiled into HTML5 dynamic content, see [html folder](https://github.com/SOCR/BPAD/tree/master/html).
+The Rmd/R code is available and compiled into HTML5 dynamic content, see [R/RMD source](https://github.com/SOCR/BPAD/tree/master/R) and [HTML5 folder](https://github.com/SOCR/BPAD/tree/master/html).
 
 References
 ==========
