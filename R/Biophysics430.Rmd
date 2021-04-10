@@ -20,6 +20,9 @@ output:
     toc: yes
     toc_depth: '3'
 ---
+<div style= "float:right;position: relative; top: +20px;">
+![](https://raw.githubusercontent.com/SOCR/BPAD/main/images/BPAD_animeNew1.gif)
+</div>
 
 # Template
 
